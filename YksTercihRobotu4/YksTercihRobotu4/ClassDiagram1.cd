@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YksTercihRobotu4.girisekrani">
+    <Position X="3.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAARAAgACSAAACEAEAAAAAABQAAABAEAA=</HashCode>
+      <FileName>girisekrani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YksTercihRobotu4.Program">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YksTercihRobotu4.tercihekrani">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAACAAABAQgACQAAACQBAIAAKAAGYAAQGABAA=</HashCode>
+      <FileName>tercihekrani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YksTercihRobotu4.Properties.Resources">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

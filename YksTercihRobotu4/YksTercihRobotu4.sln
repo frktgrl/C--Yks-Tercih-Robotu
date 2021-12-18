@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YksTercihRobotu4", "YksTercihRobotu4\YksTercihRobotu4.csproj", "{4AF9C2F3-2F25-4B38-B862-157A732F2896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF9C2F3-2F25-4B38-B862-157A732F2896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF9C2F3-2F25-4B38-B862-157A732F2896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF9C2F3-2F25-4B38-B862-157A732F2896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF9C2F3-2F25-4B38-B862-157A732F2896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD652C3-C5AC-4D94-AF13-5D2AD56D4F79}
+	EndGlobalSection
+EndGlobal
